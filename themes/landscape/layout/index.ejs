@@ -1,0 +1,4 @@
+<%- partial('_partial/archive', {pagination: 2, index: true}) %>
+<% for (var link in site.data.menu) { %>
+  <a href="<%= site.data.menu[link] %>"> <%= link %> </a>
+<% } %>
