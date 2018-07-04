@@ -13,7 +13,7 @@ tags:
 ## hyper
 - <font color="blue">hyper+4</font> 正常排列所有窗口
 - 关于当前app
-  - **hyper+1** 当前app放到DELL, DELL的窗口都放到苹果, 并且tile DELL
+  - **hyper+1** 当前app放到DELL, DELL的窗口都放到苹果, 并且tile DELL
   - **hyper+2** 当前app放到华硕, 华硕的窗口都放到苹果, 并且tile华硕
   - **hyper+3** 当前app放到苹果, 苹果的窗口都放到华硕, 并且tile苹果
 - **hyper+5** 所有无关紧要的app(或者不规则的app)全部都放到苹果,苹果上的重要的app放到北边(也就是华硕),最后tile苹果
@@ -37,9 +37,9 @@ tags:
 - 正常切换tab
   - **F3** 向左切换tab      *left_arrow+command+option*
   - **F4** 向右切换tab      *right_arrow+command+option*
-- <font color="blue">F5</font> 顺序排列当前屏幕窗口(调用hyper3用到的tile函数,不过只是tile当前的屏幕)   *f16+control*
+- <font color="blue">F5</font> 顺序排列当前屏幕窗口(调用hyper3用到的tile函数,不过只是tile当前的屏幕)   *f16+control*
 - <font color="blue">F6</font> 竖直排列所有窗口                                                  *f17+control*
-- **F7** 向左移动窗口(跟shift+左一样)  *f16+shift*
+- **F7** 向左移动窗口(跟shift+左一样)  *f16+shift*
 - **F8** 改变窗口占据屏幕大小          *f17+option*
 - **F9** 向右移动窗口(跟shift+右一样)  *f19+shift*
 -  chrome
