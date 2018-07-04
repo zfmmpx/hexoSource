@@ -1,5 +1,5 @@
 ---
-title: BOOTSTRAP基本样式
+title: BOOTSTRAP基本样式
 comments: true
 categories:
   - 前端
