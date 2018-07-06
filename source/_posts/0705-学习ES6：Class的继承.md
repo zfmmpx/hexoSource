@@ -55,3 +55,16 @@ let b = new B();
 b.m() // 2
 ```
 上面代码中，super.print()虽然调用的是A.prototype.print()，但是A.prototype.print()内部的this指向子类B的实例，导致输出的是2，而不是1。也就是说，实际上执行的是super.print.call(this)。
+
+三、如果子类没有定义constructor方法，这个方法会被默认添加，代码如下。也就是说，不管有没有显式定义，任何一个子类都有constructor方法。
+```js
+class ColorPoint extends Point {
+}
+
+// 等同于
+class ColorPoint extends Point {
+  constructor(...args) {
+    super(...args);
+  }
+}
+```
