@@ -3,8 +3,7 @@ title: VSCode中使用Git实践，学会了效率翻倍
 comments: true
 categories:
   - 前端
-  - CSS
-  - CSS一般性重要概念
+  - git
 tags:
   - 我的笔记
 language:

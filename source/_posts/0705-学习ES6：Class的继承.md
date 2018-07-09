@@ -3,8 +3,7 @@ title: 学习ES6：Class的继承
 comments: true
 categories:
   - 前端
-  - CSS
-  - CSS一般性重要概念
+  - ES6
 tags:
   - 我的笔记
 language:
