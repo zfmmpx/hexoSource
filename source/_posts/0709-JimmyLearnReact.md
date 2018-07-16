@@ -3,8 +3,7 @@ title: JimmyLearnReact
 comments: true
 categories:
   - 前端
-  - CSS
-  - CSS一般性重要概念
+  - react
 tags:
   - 我的笔记
 language:
